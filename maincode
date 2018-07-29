@@ -9,3 +9,7 @@ react
 backend
 nodejs
 expressjs
+
+database
+mongodb
+mongosse
